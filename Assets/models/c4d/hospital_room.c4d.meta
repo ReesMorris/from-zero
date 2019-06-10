@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: f85b45f339cdcbc419cdb4b1b397d96c
+timeCreated: 1516887548
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back
+    100002: Body
+    100004: Body_Parts
+    100006: Bones
+    100008: Boole
+    100010: CINEMA_4D_Editor
+    100012: Cube
+    100014: Hand_Controls
+    100016: Head
+    100018: Head_2
+    100020: //RootNode
+    100022: IK_Chains
+    100024: Left_Arm
+    100026: Left_Arm_2
+    100028: Left_Elbow
+    100030: Left_Foot
+    100032: Left_Foot_Goal
+    100034: Left_Hand
+    100036: Left_Hand_Goal
+    100038: Left_Knee
+    100040: Left_Leg
+    100042: Left_Leg_2
+    100044: Leg_Controls
+    100046: Neck
+    100048: Plane
+    100050: Plane_1
+    100052: Plane_1_2
+    100054: Right_Arm
+    100056: Right_Arm_2
+    100058: Right_Elbow
+    100060: Right_Foot
+    100062: Right_Foot_Goal
+    100064: Right_Hand
+    100066: Right_Hand_Goal
+    100068: Right_Knee
+    100070: Right_Leg
+    100072: Right_Leg_2
+    100074: Top_Back
+    100076: Waist
+    400000: Back
+    400002: Body
+    400004: Body_Parts
+    400006: Bones
+    400008: Boole
+    400010: CINEMA_4D_Editor
+    400012: Cube
+    400014: Hand_Controls
+    400016: Head
+    400018: Head_2
+    400020: //RootNode
+    400022: IK_Chains
+    400024: Left_Arm
+    400026: Left_Arm_2
+    400028: Left_Elbow
+    400030: Left_Foot
+    400032: Left_Foot_Goal
+    400034: Left_Hand
+    400036: Left_Hand_Goal
+    400038: Left_Knee
+    400040: Left_Leg
+    400042: Left_Leg_2
+    400044: Leg_Controls
+    400046: Neck
+    400048: Plane
+    400050: Plane_1
+    400052: Plane_1_2
+    400054: Right_Arm
+    400056: Right_Arm_2
+    400058: Right_Elbow
+    400060: Right_Foot
+    400062: Right_Foot_Goal
+    400064: Right_Hand
+    400066: Right_Hand_Goal
+    400068: Right_Knee
+    400070: Right_Leg
+    400072: Right_Leg_2
+    400074: Top_Back
+    400076: Waist
+    2000000: CINEMA_4D_Editor
+    2300000: Cube
+    2300002: Plane
+    2300004: Plane_1
+    2300006: Plane_1_2
+    3300000: Cube
+    3300002: Plane
+    3300004: Plane_1
+    3300006: Plane_1_2
+    4300000: Plane_1
+    4300002: Plane
+    4300004: Plane_1_2
+    4300006: Cube
+    4300008: Head_2
+    4300010: Body
+    4300012: Right_Arm_2
+    4300014: Left_Arm_2
+    4300016: Right_Leg_2
+    4300018: Left_Leg_2
+    9500000: //RootNode
+    13700000: Body
+    13700002: Head_2
+    13700004: Left_Arm_2
+    13700006: Left_Leg_2
+    13700008: Right_Arm_2
+    13700010: Right_Leg_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 1f2d34b46c924934d906fbee110b5e36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: c7725a6008621634090b19fa759ce8c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 4f96a9ac4264844369123f0d369a42ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 06827e8009f704c61ae1cde88782f2c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants
+    second: {fileID: 2100000, guid: e2a8a02723ac94313b56a2e231a22bc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: 8ecd3e365a4af457396361b068bdb1f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: f951089bfb0fa450b88d2db5e4e270ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lift
+    second: {fileID: 2100000, guid: 8c71ed3bf541f4bdea95019f58628f7c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

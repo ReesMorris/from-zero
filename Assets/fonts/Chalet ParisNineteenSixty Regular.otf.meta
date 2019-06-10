@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 30f6d6f7acb4e462bbf15b5bbf21e95d
+timeCreated: 1511459802
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chalet ParisNineteenSixty
+  fontNames:
+  - Chalet ParisNineteenSixty
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

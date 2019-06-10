@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 8b138bce477924c5bbd5d3b446f73e63
+timeCreated: 1512058729
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back
+    100002: Body
+    100004: Body_Parts
+    100006: Bones
+    100008: CINEMA_4D_Editor
+    100010: //RootNode
+    100012: Hand_Controls
+    100014: Head
+    100016: Head_2
+    100018: IK_Chains
+    100020: Left_Arm
+    100022: Left_Arm_2
+    100024: Left_Elbow
+    100026: Left_Foot
+    100028: Left_Foot_Goal
+    100030: Left_Hand
+    100032: Left_Hand_Goal
+    100034: Left_Knee
+    100036: Left_Leg
+    100038: Left_Leg_2
+    100040: Leg_Controls
+    100042: Neck
+    100044: Right_Arm
+    100046: Right_Arm_2
+    100048: Right_Elbow
+    100050: Right_Foot
+    100052: Right_Foot_Goal
+    100054: Right_Hand
+    100056: Right_Hand_Goal
+    100058: Right_Knee
+    100060: Right_Leg
+    100062: Right_Leg_2
+    100064: Top_Back
+    100066: Waist
+    400000: Back
+    400002: Body
+    400004: Body_Parts
+    400006: Bones
+    400008: CINEMA_4D_Editor
+    400010: //RootNode
+    400012: Hand_Controls
+    400014: Head
+    400016: Head_2
+    400018: IK_Chains
+    400020: Left_Arm
+    400022: Left_Arm_2
+    400024: Left_Elbow
+    400026: Left_Foot
+    400028: Left_Foot_Goal
+    400030: Left_Hand
+    400032: Left_Hand_Goal
+    400034: Left_Knee
+    400036: Left_Leg
+    400038: Left_Leg_2
+    400040: Leg_Controls
+    400042: Neck
+    400044: Right_Arm
+    400046: Right_Arm_2
+    400048: Right_Elbow
+    400050: Right_Foot
+    400052: Right_Foot_Goal
+    400054: Right_Hand
+    400056: Right_Hand_Goal
+    400058: Right_Knee
+    400060: Right_Leg
+    400062: Right_Leg_2
+    400064: Top_Back
+    400066: Waist
+    2000000: CINEMA_4D_Editor
+    4300000: Head_2
+    4300002: Body
+    4300004: Right_Arm_2
+    4300006: Left_Arm_2
+    4300008: Right_Leg_2
+    4300010: Left_Leg_2
+    9500000: //RootNode
+    13700000: Body
+    13700002: Head_2
+    13700004: Left_Arm_2
+    13700006: Left_Leg_2
+    13700008: Right_Arm_2
+    13700010: Right_Leg_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants
+    second: {fileID: 2100000, guid: 9e2ebb0c4db525d4a8ea73b7fafe8899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: 9deeacec21303444397d51c41e960688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: 2101da0a7f442dc48835c6d0bbdc6b3f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

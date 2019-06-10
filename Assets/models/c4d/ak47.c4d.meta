@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: d4748eea50fb6de4aaf44bbaef4f4fc5
+timeCreated: 1516887548
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AK47
+    100002: //RootNode
+    100004: AKBODY
+    100006: AKBODY_1
+    100008: AKBODY_2
+    100010: AKBODY_3
+    100012: AKBODY_4
+    100014: AKBODY_5
+    100016: AKBODY_6
+    100018: AKBODY_6_2
+    100020: Boole_1
+    100022: CINEMA_4D_Editor
+    100024: Cube_6
+    100026: Cylinder
+    100028: Cylinder_1
+    100030: Cylinder_2
+    100032: Torus
+    400000: AK47
+    400002: //RootNode
+    400004: AKBODY
+    400006: AKBODY_1
+    400008: AKBODY_2
+    400010: AKBODY_3
+    400012: AKBODY_4
+    400014: AKBODY_5
+    400016: AKBODY_6
+    400018: AKBODY_6_2
+    400020: Boole_1
+    400022: CINEMA_4D_Editor
+    400024: Cube_6
+    400026: Cylinder
+    400028: Cylinder_1
+    400030: Cylinder_2
+    400032: Torus
+    2000000: CINEMA_4D_Editor
+    2300000: AKBODY
+    2300002: AKBODY_1
+    2300004: AKBODY_2
+    2300006: AKBODY_3
+    2300008: AKBODY_4
+    2300010: AKBODY_5
+    2300012: AKBODY_6
+    2300014: AKBODY_6_2
+    2300016: Boole_1
+    2300018: Cube_6
+    2300020: Cylinder
+    2300022: Cylinder_1
+    2300024: Cylinder_2
+    2300026: Torus
+    3300000: AKBODY
+    3300002: AKBODY_1
+    3300004: AKBODY_2
+    3300006: AKBODY_3
+    3300008: AKBODY_4
+    3300010: AKBODY_5
+    3300012: AKBODY_6
+    3300014: AKBODY_6_2
+    3300016: Boole_1
+    3300018: Cube_6
+    3300020: Cylinder
+    3300022: Cylinder_1
+    3300024: Cylinder_2
+    3300026: Torus
+    4300000: Cube_6
+    4300002: AKBODY_6
+    4300004: Torus
+    4300006: AKBODY_5
+    4300008: Boole_1
+    4300010: AKBODY_4
+    4300012: AKBODY_3
+    4300014: Cylinder_2
+    4300016: Cylinder_1
+    4300018: Cylinder
+    4300020: AKBODY_2
+    4300022: AKBODY
+    4300024: AKBODY_1
+    4300026: AKBODY_6_2
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 4f96a9ac4264844369123f0d369a42ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: 75e8364ec0f834e788efed474ea9c40b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2
+    second: {fileID: 2100000, guid: 6273c92cfc1e84e12af159a82d70ae4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.3
+    second: {fileID: 2100000, guid: 62b8f68228ea946c08e8168c1fa48352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 06827e8009f704c61ae1cde88782f2c9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

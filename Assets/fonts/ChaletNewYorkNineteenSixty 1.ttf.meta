@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 678b2ec36ea1c43e9b2e9a83f9f0787a
+timeCreated: 1512785439
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chalet
+  fontNames:
+  - Chalet
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4423b668e085400998f8866a76141d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

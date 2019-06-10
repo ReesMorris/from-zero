@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 0bf9b60c695b545919cd6083dd2162b9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Array
+    100002: Back
+    100004: Body
+    100006: Body_Parts
+    100008: Bones
+    100010: Boole
+    100012: Character
+    100014: CINEMA_4D_Editor
+    100016: Eye_White
+    100018: Eyebrows
+    100020: Eyes
+    100022: Hand_Controls
+    100024: Head
+    100026: Head_2
+    100028: IK_Chains
+    100030: Left_Arm
+    100032: Left_Arm_2
+    100034: Left_Elbow
+    100036: Left_Eye
+    100038: Left_Eyebrow
+    100040: Left_Foot
+    100042: Left_Foot_Goal
+    100044: Left_Hand
+    100046: Left_Hand_Goal
+    100048: Left_Knee
+    100050: Left_Leg
+    100052: Left_Leg_2
+    100054: Leg_Controls
+    100056: //RootNode
+    100058: Mouth
+    100060: Neck
+    100062: Right_Arm
+    100064: Right_Arm_2
+    100066: Right_Elbow
+    100068: Right_Eye
+    100070: Right_Eyebrow
+    100072: Right_Foot
+    100074: Right_Foot_Goal
+    100076: Right_Hand
+    100078: Right_Hand_Goal
+    100080: Right_Knee
+    100082: Right_Leg
+    100084: Right_Leg_2
+    100086: Top_Back
+    100088: Waist
+    400000: Array
+    400002: Back
+    400004: Body
+    400006: Body_Parts
+    400008: Bones
+    400010: Boole
+    400012: Character
+    400014: CINEMA_4D_Editor
+    400016: Eye_White
+    400018: Eyebrows
+    400020: Eyes
+    400022: Hand_Controls
+    400024: Head
+    400026: Head_2
+    400028: IK_Chains
+    400030: Left_Arm
+    400032: Left_Arm_2
+    400034: Left_Elbow
+    400036: Left_Eye
+    400038: Left_Eyebrow
+    400040: Left_Foot
+    400042: Left_Foot_Goal
+    400044: Left_Hand
+    400046: Left_Hand_Goal
+    400048: Left_Knee
+    400050: Left_Leg
+    400052: Left_Leg_2
+    400054: Leg_Controls
+    400056: //RootNode
+    400058: Mouth
+    400060: Neck
+    400062: Right_Arm
+    400064: Right_Arm_2
+    400066: Right_Elbow
+    400068: Right_Eye
+    400070: Right_Eyebrow
+    400072: Right_Foot
+    400074: Right_Foot_Goal
+    400076: Right_Hand
+    400078: Right_Hand_Goal
+    400080: Right_Knee
+    400082: Right_Leg
+    400084: Right_Leg_2
+    400086: Top_Back
+    400088: Waist
+    2000000: CINEMA_4D_Editor
+    2100000: Mary Skin
+    2100002: Mary Hair
+    2100004: Mary Eyebrows
+    2100006: Eye Whites
+    2100008: Mary Eyes
+    2100010: Mouth
+    2100012: Mary Shirt
+    2100014: Mary Pants
+    2300000: Eye_White
+    2300002: Left_Eye
+    2300004: Left_Eyebrow
+    2300006: Mouth
+    2300008: Right_Eye
+    2300010: Right_Eyebrow
+    3300000: Eye_White
+    3300002: Left_Eye
+    3300004: Left_Eyebrow
+    3300006: Mouth
+    3300008: Right_Eye
+    3300010: Right_Eyebrow
+    4300000: Head_2
+    4300002: Left_Eyebrow
+    4300004: Right_Eyebrow
+    4300006: Eye_White
+    4300008: Left_Eye
+    4300010: Right_Eye
+    4300012: Mouth
+    4300014: Body
+    4300016: Right_Arm_2
+    4300018: Left_Arm_2
+    4300020: Right_Leg_2
+    4300022: Left_Leg_2
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    13700000: Body
+    13700002: Head_2
+    13700004: Left_Arm_2
+    13700006: Left_Leg_2
+    13700008: Right_Arm_2
+    13700010: Right_Leg_2
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

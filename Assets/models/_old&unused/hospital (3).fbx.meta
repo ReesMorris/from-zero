@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: c9554dd2224b3e64d989ab563ff30167
+timeCreated: 1513136071
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back
+    100002: Barricaded_Doors
+    100004: Barricaded_Doors_2
+    100006: Body
+    100008: Body_Parts
+    100010: Bones
+    100012: Character
+    100014: CINEMA_4D_Editor
+    100016: Cube
+    100018: Cube_1
+    100020: Cube_1_2
+    100022: Cube_1_3
+    100024: Cube_1_4
+    100026: Cube_1_5
+    100028: Cube_2
+    100030: Cube_2_2
+    100032: Cube_2_3
+    100034: Cube_2_4
+    100036: Cube_3
+    100038: Cube_3_2
+    100040: Cube_3_3
+    100042: Cube_3_4
+    100044: Cube_4
+    100046: Cube_4_2
+    100048: Cube_4_3
+    100050: Cube_5
+    100052: Cube_6
+    100054: Cube_7
+    100056: Cylinder
+    100058: Cylinder_1
+    100060: Cylinder_2
+    100062: Cylinder_2_2
+    100064: Cylinder_3
+    100066: Cylinder_3_2
+    100068: Cylinder_4
+    100070: Cylinder_5
+    100072: Door
+    100074: Door_2
+    100076: Elevator_Buttons
+    100078: Elevator_Frame
+    100080: Elevator_Frame_1
+    100082: Elevator_Shaft_1
+    100084: Elevator_Shaft_2
+    100086: Hallway
+    100088: Hand_Controls
+    100090: Head
+    100092: Head_2
+    100094: //RootNode
+    100096: IK_Chains
+    100098: Left_Arm
+    100100: Left_Arm_2
+    100102: Left_Elbow
+    100104: Left_Foot
+    100106: Left_Foot_Goal
+    100108: Left_Hand
+    100110: Left_Hand_Goal
+    100112: Left_Knee
+    100114: Left_Leg
+    100116: Left_Leg_2
+    100118: Leg_Controls
+    100120: Light
+    100122: Light_1
+    100124: Lights
+    100126: Neck
+    100128: Right_Arm
+    100130: Right_Arm_2
+    100132: Right_Elbow
+    100134: Right_Foot
+    100136: Right_Hand
+    100138: Right_Hand_Goal
+    100140: Right_Knee
+    100142: Right_Leg
+    100144: Right_Leg_2
+    100146: Room
+    100148: Room_2
+    100150: Shaft
+    100152: Shaft_2
+    100154: Top_Back
+    100156: Waist
+    100158: Window
+    100160: Window_2
+    100162: Window_3
+    100164: Window_4
+    100166: Window_Boole
+    100168: Wooden_Barricade
+    100170: Wooden_Barricade_1
+    400000: Back
+    400002: Barricaded_Doors
+    400004: Barricaded_Doors_2
+    400006: Body
+    400008: Body_Parts
+    400010: Bones
+    400012: Character
+    400014: CINEMA_4D_Editor
+    400016: Cube
+    400018: Cube_1
+    400020: Cube_1_2
+    400022: Cube_1_3
+    400024: Cube_1_4
+    400026: Cube_1_5
+    400028: Cube_2
+    400030: Cube_2_2
+    400032: Cube_2_3
+    400034: Cube_2_4
+    400036: Cube_3
+    400038: Cube_3_2
+    400040: Cube_3_3
+    400042: Cube_3_4
+    400044: Cube_4
+    400046: Cube_4_2
+    400048: Cube_4_3
+    400050: Cube_5
+    400052: Cube_6
+    400054: Cube_7
+    400056: Cylinder
+    400058: Cylinder_1
+    400060: Cylinder_2
+    400062: Cylinder_2_2
+    400064: Cylinder_3
+    400066: Cylinder_3_2
+    400068: Cylinder_4
+    400070: Cylinder_5
+    400072: Door
+    400074: Door_2
+    400076: Elevator_Buttons
+    400078: Elevator_Frame
+    400080: Elevator_Frame_1
+    400082: Elevator_Shaft_1
+    400084: Elevator_Shaft_2
+    400086: Hallway
+    400088: Hand_Controls
+    400090: Head
+    400092: Head_2
+    400094: //RootNode
+    400096: IK_Chains
+    400098: Left_Arm
+    400100: Left_Arm_2
+    400102: Left_Elbow
+    400104: Left_Foot
+    400106: Left_Foot_Goal
+    400108: Left_Hand
+    400110: Left_Hand_Goal
+    400112: Left_Knee
+    400114: Left_Leg
+    400116: Left_Leg_2
+    400118: Leg_Controls
+    400120: Light
+    400122: Light_1
+    400124: Lights
+    400126: Neck
+    400128: Right_Arm
+    400130: Right_Arm_2
+    400132: Right_Elbow
+    400134: Right_Foot
+    400136: Right_Hand
+    400138: Right_Hand_Goal
+    400140: Right_Knee
+    400142: Right_Leg
+    400144: Right_Leg_2
+    400146: Room
+    400148: Room_2
+    400150: Shaft
+    400152: Shaft_2
+    400154: Top_Back
+    400156: Waist
+    400158: Window
+    400160: Window_2
+    400162: Window_3
+    400164: Window_4
+    400166: Window_Boole
+    400168: Wooden_Barricade
+    400170: Wooden_Barricade_1
+    2000000: CINEMA_4D_Editor
+    2300000: Cube
+    2300002: Cube_1
+    2300004: Cube_1_2
+    2300006: Cube_1_3
+    2300008: Cube_1_4
+    2300010: Cube_1_5
+    2300012: Cube_2
+    2300014: Cube_2_2
+    2300016: Cube_2_3
+    2300018: Cube_2_4
+    2300020: Cube_3
+    2300022: Cube_3_2
+    2300024: Cube_3_3
+    2300026: Cube_3_4
+    2300028: Cube_4
+    2300030: Cube_4_2
+    2300032: Cube_4_3
+    2300034: Cube_5
+    2300036: Cube_6
+    2300038: Cube_7
+    2300040: Cylinder
+    2300042: Cylinder_1
+    2300044: Cylinder_2
+    2300046: Cylinder_2_2
+    2300048: Cylinder_3
+    2300050: Cylinder_3_2
+    2300052: Cylinder_4
+    2300054: Cylinder_5
+    2300056: Hallway
+    2300058: Room_2
+    2300060: Window
+    2300062: Window_2
+    2300064: Window_3
+    2300066: Window_4
+    2300068: Wooden_Barricade
+    2300070: Wooden_Barricade_1
+    3300000: Cube
+    3300002: Cube_1
+    3300004: Cube_1_2
+    3300006: Cube_1_3
+    3300008: Cube_1_4
+    3300010: Cube_1_5
+    3300012: Cube_2
+    3300014: Cube_2_2
+    3300016: Cube_2_3
+    3300018: Cube_2_4
+    3300020: Cube_3
+    3300022: Cube_3_2
+    3300024: Cube_3_3
+    3300026: Cube_3_4
+    3300028: Cube_4
+    3300030: Cube_4_2
+    3300032: Cube_4_3
+    3300034: Cube_5
+    3300036: Cube_6
+    3300038: Cube_7
+    3300040: Cylinder
+    3300042: Cylinder_1
+    3300044: Cylinder_2
+    3300046: Cylinder_2_2
+    3300048: Cylinder_3
+    3300050: Cylinder_3_2
+    3300052: Cylinder_4
+    3300054: Cylinder_5
+    3300056: Hallway
+    3300058: Room_2
+    3300060: Window
+    3300062: Window_2
+    3300064: Window_3
+    3300066: Window_4
+    3300068: Wooden_Barricade
+    3300070: Wooden_Barricade_1
+    4300000: Window
+    4300002: Cube_2
+    4300004: Cube_3
+    4300006: Cube_1
+    4300008: Cube
+    4300010: Room_2
+    4300012: Hallway
+    4300014: Window_2
+    4300016: Cube_1_2
+    4300018: Cube_2_2
+    4300020: Cube_3_2
+    4300022: Window_3
+    4300024: Cube_1_3
+    4300026: Cube_4
+    4300028: Cube_5
+    4300030: Window_4
+    4300032: Wooden_Barricade_1
+    4300034: Cylinder
+    4300036: Cylinder_2
+    4300038: Wooden_Barricade
+    4300040: Cylinder_3
+    4300042: Cylinder_4
+    4300044: Cube_4_2
+    4300046: Cube_3_3
+    4300048: Cube_2_3
+    4300050: Cube_1_4
+    4300052: Cube_6
+    4300054: Cube_4_3
+    4300056: Cube_3_4
+    4300058: Cube_2_4
+    4300060: Cube_1_5
+    4300062: Cube_7
+    4300064: Cylinder_3_2
+    4300066: Cylinder_2_2
+    4300068: Cylinder_1
+    4300070: Cylinder_5
+    4300072: Head_2
+    4300074: Body
+    4300076: Right_Arm_2
+    4300078: Left_Arm_2
+    4300080: Right_Leg_2
+    4300082: Left_Leg_2
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    10800000: Light
+    10800002: Light_1
+    13700000: Body
+    13700002: Head_2
+    13700004: Left_Arm_2
+    13700006: Left_Leg_2
+    13700008: Right_Arm_2
+    13700010: Right_Leg_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 1ba382d5c89555c41ac0fa18afc9f961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Handle
+    second: {fileID: 2100000, guid: dc52da0b0aec84c63bd0da5cfcf1946a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Button
+    second: {fileID: 2100000, guid: e7b87d8a78526cf46b71da586b72f9c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Button 2
+    second: {fileID: 2100000, guid: 59ac04c019375fd448e193f46e9396ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Button Frame
+    second: {fileID: 2100000, guid: 0ec1e3cab0ae56544aa6ae43640feff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Frame
+    second: {fileID: 2100000, guid: a8082cfdd798b441988abc5d08c1d9c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator door
+    second: {fileID: 2100000, guid: 90c8005cf8d204f41bb6e8f1e0a9bded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital Desk
+    second: {fileID: 2100000, guid: c58aedbb2ee720248af65b7b696c3869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital Desk Counter
+    second: {fileID: 2100000, guid: 82a825add09acb942b0a5f55cd9e297e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital Floor
+    second: {fileID: 2100000, guid: f3fcec6b1191c58498ca84cd66ba95c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital Walls
+    second: {fileID: 2100000, guid: e0257e9d49ce6644494795bb43c9ca9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital Window
+    second: {fileID: 2100000, guid: c6b591ccb361a4245acaa2c6cba3c471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nail
+    second: {fileID: 2100000, guid: cca63a6b23bcc744ebceac36094a95f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 06827e8009f704c61ae1cde88782f2c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants
+    second: {fileID: 2100000, guid: e2a8a02723ac94313b56a2e231a22bc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: 8ecd3e365a4af457396361b068bdb1f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: f951089bfb0fa450b88d2db5e4e270ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Transparent
+    second: {fileID: 2100000, guid: fe3dd162169579743aa0d8caf586e715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: feed7f94203394e8eb981459f76eebd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden Bar
+    second: {fileID: 2100000, guid: 646659f93adbe6b44ad3093fb750b35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wooden Door
+    second: {fileID: 2100000, guid: 0972ed3bcd6778e4faca87a48247daa4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

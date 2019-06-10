@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/(UI) Main Menu.unity
+    guid: 611b8a4f31596408aa03695f799f63d0
+  - enabled: 1
+    path: Assets/scenes/(G1) Airport Terminal.unity
+    guid: 3038784af17f34fb79c2dcc67fc672f0
+  - enabled: 1
+    path: Assets/scenes/(G2) Highway.unity
+    guid: d7f9cd7d82cb645bfa4a208112ab54ea
+  - enabled: 1
+    path: Assets/scenes/(G3) Zack's House.unity
+    guid: d3a7c49025022406dadda52d12db17ec
+  - enabled: 1
+    path: Assets/scenes/(G4) Urban Road.unity
+    guid: 8c3bd7585820740fd92966e6b307b770
+  - enabled: 1
+    path: Assets/scenes/(G5) Bar.unity
+    guid: 7dc814a1430bb4d3da36823a21101b39
+  - enabled: 1
+    path: Assets/scenes/(G6) Alleyway.unity
+    guid: 08011eecee014483baff89952360016d
+  - enabled: 1
+    path: Assets/scenes/(G7) Store.unity
+    guid: ff1a9a8eaddf04de089f27831acafd82
+  - enabled: 1
+    path: Assets/scenes/(G8) Parking Area.unity
+    guid: 9b69b16ccf0fe4bee93ff37e81183a8f
+  - enabled: 1
+    path: Assets/scenes/(G10) Fuel Station.unity
+    guid: 572ba7d7c1a394200b5e96a261fdffc9
+  - enabled: 1
+    path: Assets/scenes/(G11) Train Station.unity
+    guid: 3d0a7965c8e3c48aabacee6ec844f526
+  - enabled: 1
+    path: Assets/scenes/(G12) Train.unity
+    guid: b9d66a0aa096645b59114300a7e5f711
+  - enabled: 1
+    path: Assets/scenes/(G13) Train Station 2.unity
+    guid: 0d6c36034d6a9426f8b0a0a2113031fe
+  - enabled: 1
+    path: Assets/scenes/(G14) Franks House.unity
+    guid: 3c7f127471483495483d6037e949d355
+  - enabled: 1
+    path: Assets/scenes/(UI) Choices.unity
+    guid: 173dac97ee44b4d53b4c489c85dba63d
+  - enabled: 1
+    path: Assets/scenes/(UI) Credits.unity
+    guid: 92391f7f74cc94da4bf46d8f56c7ece9

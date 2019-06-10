@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 8323dba63fc4492469d4cefeb4a9118d
+timeCreated: 1517421317
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bed
+    100002: Boole
+    100004: Boole_1
+    100006: Boole_2
+    100008: CINEMA_4D_Editor
+    100010: Corridor_with_lift
+    100012: Cube
+    100014: Cube_1
+    100016: Cube_1_2
+    100018: Cube_1_3
+    100020: Cube_2
+    100022: Cube_2_2
+    100024: Cube_3
+    100026: Cube_3_2
+    100028: Cube_4
+    100030: Cube_4_2
+    100032: Cube_5
+    100034: East_Wall_2
+    100036: floor
+    100038: //RootNode
+    100040: LIFT
+    100042: Locker
+    100044: North_wall
+    100046: Papers
+    100048: Papers_1
+    100050: Papers_2
+    100052: small_wall
+    100054: Table
+    100056: West_Wall
+    100058: wood
+    100060: wood_1
+    100062: wood_2
+    400000: Bed
+    400002: Boole
+    400004: Boole_1
+    400006: Boole_2
+    400008: CINEMA_4D_Editor
+    400010: Corridor_with_lift
+    400012: Cube
+    400014: Cube_1
+    400016: Cube_1_2
+    400018: Cube_1_3
+    400020: Cube_2
+    400022: Cube_2_2
+    400024: Cube_3
+    400026: Cube_3_2
+    400028: Cube_4
+    400030: Cube_4_2
+    400032: Cube_5
+    400034: East_Wall_2
+    400036: floor
+    400038: //RootNode
+    400040: LIFT
+    400042: Locker
+    400044: North_wall
+    400046: Papers
+    400048: Papers_1
+    400050: Papers_2
+    400052: small_wall
+    400054: Table
+    400056: West_Wall
+    400058: wood
+    400060: wood_1
+    400062: wood_2
+    2000000: CINEMA_4D_Editor
+    2300000: Boole_1
+    2300002: Boole_2
+    2300004: Cube
+    2300006: Cube_1
+    2300008: Cube_1_2
+    2300010: Cube_1_3
+    2300012: Cube_2
+    2300014: Cube_2_2
+    2300016: Cube_3
+    2300018: Cube_3_2
+    2300020: Cube_4
+    2300022: Cube_4_2
+    2300024: Cube_5
+    2300026: East_Wall_2
+    2300028: floor
+    2300030: LIFT
+    2300032: Locker
+    2300034: North_wall
+    2300036: Papers
+    2300038: Papers_1
+    2300040: Papers_2
+    2300042: small_wall
+    2300044: Table
+    2300046: West_Wall
+    2300048: wood
+    2300050: wood_1
+    2300052: wood_2
+    3300000: Boole_1
+    3300002: Boole_2
+    3300004: Cube
+    3300006: Cube_1
+    3300008: Cube_1_2
+    3300010: Cube_1_3
+    3300012: Cube_2
+    3300014: Cube_2_2
+    3300016: Cube_3
+    3300018: Cube_3_2
+    3300020: Cube_4
+    3300022: Cube_4_2
+    3300024: Cube_5
+    3300026: East_Wall_2
+    3300028: floor
+    3300030: LIFT
+    3300032: Locker
+    3300034: North_wall
+    3300036: Papers
+    3300038: Papers_1
+    3300040: Papers_2
+    3300042: small_wall
+    3300044: Table
+    3300046: West_Wall
+    3300048: wood
+    3300050: wood_1
+    3300052: wood_2
+    4300000: LIFT
+    4300002: Cube_5
+    4300004: Cube_1
+    4300006: Cube
+    4300008: West_Wall
+    4300010: Cube_2
+    4300012: East_Wall_2
+    4300014: wood_2
+    4300016: wood_1
+    4300018: wood
+    4300020: North_wall
+    4300022: floor
+    4300024: small_wall
+    4300026: Table
+    4300028: Cube_4
+    4300030: Cube_3
+    4300032: Cube_2_2
+    4300034: Cube_1_2
+    4300036: Boole_2
+    4300038: Boole_1
+    4300040: Cube_4_2
+    4300042: Cube_1_3
+    4300044: Cube_3_2
+    4300046: Locker
+    4300048: Papers_2
+    4300050: Papers
+    4300052: Papers_1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain
+    second: {fileID: 2100000, guid: 1107910ed3cdd17438d781f1df49f53d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: 8434c4a25618fc44e9ff5620e8d2e5ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorGlass
+    second: {fileID: 2100000, guid: 5e34f1988a3dae8458a9fbad5a982b34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorHandle
+    second: {fileID: 2100000, guid: e3303339d19ef694f8369624309f6015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 1f2d34b46c924934d906fbee110b5e36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFTBUTTONS
+    second: {fileID: 2100000, guid: 397fc7c1285597e4a9321c347372aada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 4f96a9ac4264844369123f0d369a42ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: 75e8364ec0f834e788efed474ea9c40b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2
+    second: {fileID: 2100000, guid: 6273c92cfc1e84e12af159a82d70ae4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.4
+    second: {fileID: 2100000, guid: d1c565343c03a4591afe64ca610f319e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.6
+    second: {fileID: 2100000, guid: d8452cc428abf1f4ea945112937791f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.7
+    second: {fileID: 2100000, guid: 412247ad18dae234496472f869b6719f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 06827e8009f704c61ae1cde88782f2c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: 75808532326aa874b9c43fedc1a3cb80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 3a69deb4a8c4f7645a50733abea9553d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

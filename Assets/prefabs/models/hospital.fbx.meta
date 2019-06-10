@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 39d8c54c0eaeeda4489bce5307de513c
+timeCreated: 1513103362
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back
+    100002: Body
+    100004: Body_Parts
+    100006: Bones
+    100008: Boole
+    100010: Boole_1
+    100012: Boole_1_2
+    100014: Character
+    100016: CINEMA_4D_Editor
+    100018: Cube
+    100020: Cube_1
+    100022: Cube_1_2
+    100024: Cube_2
+    100026: Cube_2_2
+    100028: Cube_2_3
+    100030: Cube_3
+    100032: Cube_3_2
+    100034: Cube_4
+    100036: Cube_4_2
+    100038: Cylinder
+    100040: Cylinder_1
+    100042: Cylinder_2
+    100044: Cylinder_3
+    100046: Elevator_Buttons
+    100048: Elevator_Frame
+    100050: Elevator_Frame_1
+    100052: Elevator_Shaft
+    100054: Elevator_Shaft_2
+    100056: Hand_Controls
+    100058: Head
+    100060: Head_2
+    100062: //RootNode
+    100064: IK_Chains
+    100066: Left_Arm
+    100068: Left_Arm_2
+    100070: Left_Elbow
+    100072: Left_Foot
+    100074: Left_Foot_Goal
+    100076: Left_Hand
+    100078: Left_Hand_Goal
+    100080: Left_Knee
+    100082: Left_Leg
+    100084: Left_Leg_2
+    100086: Leg_Controls
+    100088: Light
+    100090: Neck
+    100092: Right_Arm
+    100094: Right_Arm_2
+    100096: Right_Elbow
+    100098: Right_Foot
+    100100: Right_Hand
+    100102: Right_Hand_Goal
+    100104: Right_Knee
+    100106: Right_Leg
+    100108: Right_Leg_2
+    100110: Room
+    100112: Room_MeshPart0
+    100114: Room_MeshPart1
+    100116: Top_Back
+    100118: Waist
+    400000: Back
+    400002: Body
+    400004: Body_Parts
+    400006: Bones
+    400008: Boole
+    400010: Boole_1
+    400012: Boole_1_2
+    400014: Character
+    400016: CINEMA_4D_Editor
+    400018: Cube
+    400020: Cube_1
+    400022: Cube_1_2
+    400024: Cube_2
+    400026: Cube_2_2
+    400028: Cube_2_3
+    400030: Cube_3
+    400032: Cube_3_2
+    400034: Cube_4
+    400036: Cube_4_2
+    400038: Cylinder
+    400040: Cylinder_1
+    400042: Cylinder_2
+    400044: Cylinder_3
+    400046: Elevator_Buttons
+    400048: Elevator_Frame
+    400050: Elevator_Frame_1
+    400052: Elevator_Shaft
+    400054: Elevator_Shaft_2
+    400056: Hand_Controls
+    400058: Head
+    400060: Head_2
+    400062: //RootNode
+    400064: IK_Chains
+    400066: Left_Arm
+    400068: Left_Arm_2
+    400070: Left_Elbow
+    400072: Left_Foot
+    400074: Left_Foot_Goal
+    400076: Left_Hand
+    400078: Left_Hand_Goal
+    400080: Left_Knee
+    400082: Left_Leg
+    400084: Left_Leg_2
+    400086: Leg_Controls
+    400088: Light
+    400090: Neck
+    400092: Right_Arm
+    400094: Right_Arm_2
+    400096: Right_Elbow
+    400098: Right_Foot
+    400100: Right_Hand
+    400102: Right_Hand_Goal
+    400104: Right_Knee
+    400106: Right_Leg
+    400108: Right_Leg_2
+    400110: Room
+    400112: Room_MeshPart0
+    400114: Room_MeshPart1
+    400116: Top_Back
+    400118: Waist
+    2000000: CINEMA_4D_Editor
+    2300000: Cube
+    2300002: Cube_1
+    2300004: Cube_1_2
+    2300006: Cube_2
+    2300008: Cube_2_2
+    2300010: Cube_2_3
+    2300012: Cube_3
+    2300014: Cube_3_2
+    2300016: Cube_4
+    2300018: Cube_4_2
+    2300020: Cylinder
+    2300022: Cylinder_1
+    2300024: Cylinder_2
+    2300026: Cylinder_3
+    2300028: Elevator_Shaft
+    2300030: Elevator_Shaft_2
+    2300032: Room_MeshPart0
+    2300034: Room_MeshPart1
+    2300036: Room
+    3300000: Cube
+    3300002: Cube_1
+    3300004: Cube_1_2
+    3300006: Cube_2
+    3300008: Cube_2_2
+    3300010: Cube_2_3
+    3300012: Cube_3
+    3300014: Cube_3_2
+    3300016: Cube_4
+    3300018: Cube_4_2
+    3300020: Cylinder
+    3300022: Cylinder_1
+    3300024: Cylinder_2
+    3300026: Cylinder_3
+    3300028: Elevator_Shaft
+    3300030: Elevator_Shaft_2
+    3300032: Room_MeshPart0
+    3300034: Room_MeshPart1
+    3300036: Room
+    4300000: Cube_4
+    4300002: Cube_3
+    4300004: Cube_2
+    4300006: Cube_1
+    4300008: Cube
+    4300010: Cube_4_2
+    4300012: Cube_3_2
+    4300014: Cube_2_2
+    4300016: Cube_1_2
+    4300018: Cube_2_3
+    4300020: Cylinder_3
+    4300022: Cylinder_2
+    4300024: Cylinder_1
+    4300026: Cylinder
+    4300028: Head_2
+    4300030: Body
+    4300032: Right_Arm_2
+    4300034: Left_Arm_2
+    4300036: Right_Leg_2
+    4300038: Left_Leg_2
+    4300040: Room_MeshPart0
+    4300042: Room_MeshPart1
+    4300044: Elevator_Shaft
+    4300046: Elevator_Shaft_2
+    4300048: Room
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    10800000: Light
+    13700000: Body
+    13700002: Head_2
+    13700004: Left_Arm_2
+    13700006: Left_Leg_2
+    13700008: Right_Arm_2
+    13700010: Right_Leg_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Button
+    second: {fileID: 2100000, guid: e9561a319853c6a46ac0e34937b8e2d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Button 2
+    second: {fileID: 2100000, guid: 45da518a86b79d24dbd4bf8b85f299c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Button Frame
+    second: {fileID: 2100000, guid: b0ff491ac1a2abe4d9ab2b15e4002013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Frame
+    second: {fileID: 2100000, guid: 8520d144a6f447a4ba3ce56233a069c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator door
+    second: {fileID: 2100000, guid: 4434aed76c00df142976ed71781e24dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 867fa683c499ddb4f900280a3b7d857c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants
+    second: {fileID: 2100000, guid: 9e2ebb0c4db525d4a8ea73b7fafe8899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: 9deeacec21303444397d51c41e960688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: 2101da0a7f442dc48835c6d0bbdc6b3f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
